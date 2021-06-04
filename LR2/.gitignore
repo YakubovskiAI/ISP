@@ -1,0 +1,13 @@
+.vscode
+*.json
+*.yaml
+*.pickle
+*.toml
+__pycache__
+*.pdf
+serializer/build
+serializer/dist
+serializer/src.egg-info
+serializer/Serializer.egg-info
+.coverage
+ideas/
